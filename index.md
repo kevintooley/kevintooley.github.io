@@ -1,4 +1,4 @@
-## Welcome to My Portfolio
+## About Me
 
 Expertise in all areas of technical leadership, with a proven record of unprecedented accomplishment.  History of rapid promotion and high-level naval awards.  Proven management experience in decision-making, policy direction, personnel management, system testing and evaluation.  Extensive knowledge of government requirements in systems and equipment.  Committed to the highest levels of professional and personal excellence.  Active security clearance.  
 
