@@ -1,5 +1,6 @@
 # Kevin Tooley
 kevin.tooley@icloud.com
+'''
 Check out my GitHub projects and repositories by clicking [here](https://github.com/kevintooley)
 
 Expertise in all areas of technical leadership, with a proven record of unprecedented accomplishment.  History of rapid promotion and high-level naval awards.  Proven management experience in decision-making, policy direction, personnel management, system testing and evaluation.  Extensive knowledge of government requirements in systems and equipment.  Committed to the highest levels of professional and personal excellence.  Current security clearance.  Ready to make a difference.
