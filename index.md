@@ -1,4 +1,3 @@
-# Kevin Tooley
 kevin.tooley@icloud.com
 
 Check out my GitHub projects and repositories by clicking [here](https://github.com/kevintooley)
